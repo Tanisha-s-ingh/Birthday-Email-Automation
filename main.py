@@ -3,8 +3,8 @@ import random
 import pandas as pd
 import smtplib
 
-MY_EMAIL = "tanishasinghamrita2003@gmail.com"
-MY_PASSWORD = "pligwdmfahxoehbs"
+MY_EMAIL = ""
+MY_PASSWORD = ""
 
 # 1. Get today's date
 today = datetime.now()
